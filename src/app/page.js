@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li>Kendra Froid et Climatisation est specialiseé dans le réparage des appareils frigorifiques.</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
